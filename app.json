@@ -1,8 +1,8 @@
 {
-  "name": "skryptonite",
-  "description": "skryptonite: where unblocking possibilities are endless.",
-  "repository": "https://github.com/razzlerazing4/skryptonite",
-  "logo": "/assets/media/background/BYPASS.png",
+  "name": "INFARED",
+  "description": "damn at least change the template",
+  "repository": "https://github.com/darkdragonzxs/infared",
+  "logo": "https://i.postimg.cc/BbYDZRn1/image.png",
   "keywords": ["school", "math"],
   "image": "heroku/nodejs"
 }
